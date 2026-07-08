@@ -1,4 +1,49 @@
-# 🎯 Killer Bot
+# 🔴🟠🟡🟢🔵🟣 KILLER BOT 🟣🔵🟢🟡🟠🔴
+
+---
+
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  .typing-text {
+    overflow: hidden;
+    border-right: 3px solid #00ff00;
+    white-space: nowrap;
+    animation: typing 4s steps(50, end), blink 0.75s step-end infinite;
+    font-family: monospace;
+    font-weight: bold;
+    color: #00ff00;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .caption {
+    margin: 10px 0;
+  }
+</style>
+
+<div class="caption">
+  <div class="typing-text">🎯 Killer Bot for WhatsApp by Dark-end5 - Made in Kenya</div>
+</div>
+
+<div class="caption">
+  <div class="typing-text">🚀 Killer Bot for WhatsApp by Dark-end5 - Made in Kenya</div>
+</div>
+
+---
 
 ```
 ╔═══════════════════════════════════════════════════════╗
@@ -14,7 +59,7 @@
 ║   ██║  ██╗██║███████╗███████╗███████╗██║  ██║       ║
 ║   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝       ║
 ║                                                       ║
-║         ✨         ║
+║    Made with ❤️ in Kenya                            ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
@@ -161,4 +206,4 @@ For issues, questions, or feature requests:
 
 ---
 
-**Made with ❤️ by dark-end5**
+**Made with ❤️ by dark-end5 in Kenya**
