@@ -1,0 +1,3 @@
+{
+  "ignore": ["killer", "node_modules", "database", "logs"]
+}
