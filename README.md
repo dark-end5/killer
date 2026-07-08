@@ -1,11 +1,11 @@
 ## KILLER BOT 100% Termux WhatsApp bot ##
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=K I L L E R%20BOT%20v2%20🇰🇪&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Advanced%20WhatsApp%20Automation%20Bot&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KILLER%20BOT%20v1%20🇰🇪&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Advanced%20WhatsApp%20Automation%20Bot&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=✨+K I L L E R + B O T+—+70%2B+Commands;🤖+WhatsApp+Automation+%7C+Baileys+Engine;🇰🇪+Made+in+Kenya+%7C+Termux+Optimized;⚡+Auto+Bio+%7C+AI+Mode+%7C+Downloads" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=✨+KILLER+BOT+—+70%2B+Commands;🤖+WhatsApp+Automation+%7C+Baileys+Engine;🇰🇪+Made+in+Kenya+%7C+Termux+Optimized;⚡+Auto+Bio+%7C+AI+Mode+%7C+Downloads" />
 
 <br/><br/>
 
