@@ -26,7 +26,7 @@ global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧
 global.tempatDB = 'database.json' // Put your mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.tempatStore = 'baileys_store.json' // Put your mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // You can input bot number here if using panel, otherwise get session. Format : '628xx'
+global.number_bot = '254706519089' // You can input bot number here if using panel, otherwise get session. Format : '628xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
