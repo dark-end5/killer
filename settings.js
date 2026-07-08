@@ -17,23 +17,23 @@ global.owner = ["254706519089"] // ['628','628'] 2 owner atau lebih
 global.author = 'dark-end5'
 global.botname = 'Killer'
 global.packname = 'Killer Bot'
-global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
-global.locale = 'en' // Ganti pakai command .setlocale
+global.timezone = 'Africa/Nairobi' // Change with .settimezone command
+global.locale = 'en' // Change with .setlocale command
 global.listprefix = ["+","!","."]
 global.defaultAdminKey = crypto.randomBytes(5).toString("hex");
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
-global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
-global.tempatStore = 'baileys_store.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
+global.tempatDB = 'database.json' // Put your mongodb url here if using mongodb. Format : 'mongodb+srv://...'
+global.tempatStore = 'baileys_store.json' // Put your mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
+global.number_bot = '' // You can input bot number here if using panel, otherwise get session. Format : '628xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
 	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
 	thumbnail: fs.readFileSync('./src/media/killer.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
-	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/vnd.ms-excel','application/msword','application/pdf','application/zip']
+	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-offi[...]
 }
 
 global.my = {
@@ -44,8 +44,8 @@ global.my = {
 }
 
 global.limit = {
-	free: 20,
-	premium: 999,
+	free: Infinity,
+	premium: Infinity,
 	vip: 900
 }
 
@@ -56,22 +56,22 @@ global.money = {
 }
 
 global.mess = {
-	key: "Apikey limit! Silahkan Upgrade: https://naze.biz.id",
-	owner: "Khusus Owner!",
-	admin: "Khusus Admin!",
-	botAdmin: "Bot harus Admin!",
-	onWa: "Nomor tersebut tidak terdaftar di WhatsApp!",
-	group: "Khusus Grup!",
-	private: "Khusus Private Chat!",
-	quoted: "Reply pesannya!",
-	limit: "Limit habis!",
-	prem: "Khusus Premium!",
-	text: "Masukkan teksnya!",
-	media: "Kirim medianya!",
-	wait: "Proses...",
-	fail: "Gagal!",
+	key: "API key limit! Please upgrade: https://naze.biz.id",
+	owner: "Owner only!",
+	admin: "Admin only!",
+	botAdmin: "Bot must be admin!",
+	onWa: "This number is not registered on WhatsApp!",
+	group: "Group only!",
+	private: "Private chat only!",
+	quoted: "Reply to the message!",
+	limit: "Limit exceeded!",
+	prem: "Premium only!",
+	text: "Enter the text!",
+	media: "Send the media!",
+	wait: "Processing...",
+	fail: "Failed!",
 	error: "Error!",
-	done: "Selesai!"
+	done: "Done!"
 }
 
 global.APIs = {
@@ -83,7 +83,7 @@ global.APIKeys = {
 	'https://api.neosantara.xyz/v1': 'API_KEY_NEOSANTARA_AI',
 }
 
-// Lainnya
+// Other settings
 global.jadwalSholat = {
 	Subuh: '04:30',
 	Dzuhur: '12:06',
@@ -92,7 +92,7 @@ global.jadwalSholat = {
 	Isya: '19:00'
 }
 
-global.badWords = ["dongo","konsol"] // input kata-kata toxic yg lain. ex: ['dongo','dongonya']
+global.badWords = ["dongo","konsol"] // Add other toxic words here. ex: ['dongo','dongonya']
 global.chatLength = 1000
 
 fs.watchFile(__filename, async () => {
