@@ -13,7 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["628xxxxxxxxxx"] // ['628','628'] 2 owner atau lebih
+global.owner = ["254706519089"] // ['628','628'] 2 owner atau lebih
 global.author = 'dark-end5'
 global.botname = 'Killer'
 global.packname = 'Killer Bot'
