@@ -1,68 +1,34 @@
-# 🔴🟠🟡🟢🔵🟣 KILLER BOT 🟣🔵🟢🟡🟠🔴
+## KILLER BOT 100% Termux WhatsApp bot ##
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=K I L L E R%20BOT%20v2%20🇰🇪&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Advanced%20WhatsApp%20Automation%20Bot&descAlignY=55&descSize=18" width="100%"/>
 
-<style>
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
+<br/>
 
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=✨+K I L L E R + B O T+—+70%2B+Commands;🤖+WhatsApp+Automation+%7C+Baileys+Engine;🇰🇪+Made+in+Kenya+%7C+Termux+Optimized;⚡+Auto+Bio+%7C+AI+Mode+%7C+Downloads" />
 
-  .typing-text {
-    overflow: hidden;
-    border-right: 3px solid #00ff00;
-    white-space: nowrap;
-    animation: typing 4s steps(50, end), blink 0.75s step-end infinite;
-    font-family: monospace;
-    font-weight: bold;
-    color: #00ff00;
-    text-align: center;
-    padding: 10px;
-  }
+<br/><br/>
 
-  .caption {
-    margin: 10px 0;
-  }
-</style>
+[![GitHub stars](https://img.shields.io/github/stars/dark-end5/killer?style=for-the-badge&logo=github&color=FFD700&labelColor=000)](https://github.com/dark-end5/killer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dark-end5/killer?style=for-the-badge&logo=github&color=0075FF&labelColor=000)](https://github.com/dark-end5/killer/network)
+[![GitHub issues](https://img.shields.io/github/issues/dark-end5/killer?style=for-the-badge&logo=github&color=FF4444&labelColor=000)](https://github.com/dark-end5/killer/issues)
+[![GitHub license](https://img.shields.io/github/license/dark-end5/killer?style=for-the-badge&color=25D366&labelColor=000)](https://github.com/dark-end5/killer/blob/main/LICENSE)
 
-<div class="caption">
-  <div class="typing-text">🎯 Killer Bot for WhatsApp by Dark-end5 - Made in Kenya</div>
+<br/>
+
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)](https://nodejs.org)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Multi--Device-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000)](https://whatsapp.com)
+[![Baileys](https://img.shields.io/badge/Baileys-v7.0.0--rc-blueviolet?style=for-the-badge&labelColor=000)](https://github.com/WhiskeySockets/Baileys)
+[![Made in Kenya](https://img.shields.io/badge/Made%20in-Kenya%20🇰🇪-006600?style=for-the-badge&labelColor=000)](https://github.com/dark-end5)
+
+<br/>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=dark-end5%2Fkilker&label=TOTAL%20VISITORS&labelColor=%23000000&countColor=%2325D366&style=for-the-badge)](https://visitorbadge.io)
+[![Repo Size](https://img.shields.io/github/repo-size/dark-end5/killer?style=for-the-badge&color=orange&labelColor=000)](https://github.com/dark-end5/killer)
+[![Last Commit](https://img.shields.io/github/last-commit/dark-end5/killerstyle=for-the-badge&color=cyan&labelColor=000)](https://github.com/dark-end5/killer/commits)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-To-Killer-Bot-brightgreen?style=for-the-badge&labelColor=000)](https://github.com/dark-end5/killer/pulls)
+
 </div>
-
-<div class="caption">
-  <div class="typing-text">🚀 Killer Bot for WhatsApp by Dark-end5 - Made in Kenya</div>
-</div>
-
----
-
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   🔥 KILLER - Advanced WhatsApp Bot 🔥              ║
-║                                                       ║
-║   by dark-end5                                       ║
-║                                                       ║
-║   ██╗  ██╗██╗██╗     ██╗     ███████╗██████╗        ║
-║   ██║ ██╔╝██║██║     ██║     ██╔════╝██╔══██╗       ║
-║   █████╔╝ ██║██║     ██║     █████╗  ██████╔╝       ║
-║   ██╔═██╗ ██║██║     ██║     ██╔══╝  ██╔══██╗       ║
-║   ██║  ██╗██║███████╗███████╗███████╗██║  ██║       ║
-║   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝       ║
-║                                                       ║
-║    Made with ❤️ in Kenya                            ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
 
 ---
 
